@@ -1,0 +1,133 @@
+* Purpose and Disclaimer
+** Purpose: Inform the reader
+** Focused on (publicly known) facts and (public) testimonies
+** Written by amateurs
+** Disclaimer
+* What are the accusations?
+** Clinton had a private e-mail server during 2009-2013
+*** Physically located in the basement of the Clinton's residence in Washington D.C.
+*** Administered by contracted third parties
+*** Known hosted e-mail addresses
+** The server was intended to circumvent FOIA requests
+*** All unclassified communications via .gov e-mail addresses subject to public disclosure
+** The server was not authorized by the Dept. of State
+*** FAQ: Can government employees have private e-mail?
+*** Disrecommendation vs. proscription
+** The server was not secure and was (probably) hacked
+*** Claims by hackers
+*** Claims by leaking and whistleblowing sites
+** The server received e-mails with classified contents or portions
+*** E-mail chains
+*** Retroactive classification
+*** Classification markings
+** Clinton used the server to send e-mails with classified contents or portions
+*** Recipients
+*** What the public has been told about the contents of these messages
+** Clinton sent (or gave access to a record of) such e-mails to people without clearance
+*** Clinton's e-mail server administrators
+*** Clinton's lawyers
+*** Others
+** Clinton lied about the e-mails and the server to the media
+*** Timeline
+** Clinton lied under oath about the e-mails and the server to the US Congress
+*** Timeline
+** Clinton or her close allies compelled the DoS/FBI/DOJ to avoid prosecution
+*** Timeline
+* Who commissioned/ran the investigations?
+** The Dept. of State
+** The Dept. of Justice
+** The FBI
+** The US Congress
+* What were the findings
+** Server administration questions
+** Clinton accessed this server with multiple devices
+** Clinton accessed this server from unfriendly territory
+** The server had about 60,000 e-mails during Clinton's tenure
+** Several e-mails were deleted from the server
+** Clinton hired lawyers to sift through the non-deleted e-mails
+** A subset of the non-deleted e-mails were handed to DoS/FBI
+** Some deleted e-mails were recovered from other sources (senders, CCs, etc.)
+* The FBI investigation
+** Timeline
+** James Comey's press conference
+** James Comey's testimony to the US Congress
+** Other reports from teh FBI
+** "Intent"
+** "Gross Negligence"
+** "Extreme Carelessness"
+* The DOJ investigation
+** Timeline
+** Loretta Lynch's testimony to the US Congress
+* The State Dept. investigation
+** Timeline
+** Dispute about classification
+* The Congressional testimonies
+** Timeline
+** By Hillary Clinton
+** By James Comey
+** By Loretta Lunch
+* Important people and organizations
+** Hillary Rodham Clinton, former Secretary of State (2009-2013)
+** James Comey, Director of the FBI
+** Loretta Lynch, Attorney General of the US and head of the Dept. of Justice
+** James Chaffetz, US Representative (R-UT), chairman of the Oversight Committee
+** Barack Hussein Obama Jr., President of the US (2009-2017)
+** John Kerry, Secretary of State
+** Colin Powell, former Secretary of State
+** Condoleezza Rice, former Secretary of State
+** William Jefferson "Bill" Clinton, husband of HRC and former US president
+** David Brock, Media Matters for America, and Correct the Record
+** Sidney Blumenthal
+* Read more
+** Information Security
+*** Classification
+**** Purpose of classification
+**** Levels of classification
+**** Classification markings
+**** FAQ: Who classifies/unclassifies things?
+**** FAQ: Can a publicly known piece of information be classified?
+**** FAQ: Can people and identities be classified?
+**** Redaction
+**** Read more: relevant laws and statutes
+*** Secure and nonsecure channels
+**** Meaning of terms
+**** SIPRnet (secure)
+**** The Internet (nonsecure)
+**** Departmental intranets (nonsecure)
+**** FAQ: (How) can classified documents be sent over nonsecure channels?
+**** FAQ: (How) can non-classified documents be sent over secure channels?
+*** Relevant duties of the Secretary of State
+**** Interaction with classified information
+**** Original classification authority
+*** Penalties
+**** Administrative sanction
+**** Criminal prosecution
+** Freedom of Information Act (FOIA)
+*** History of the act
+*** FAQ: Who can petition?
+*** FAQ: Can FOIA petitions be legally denied?
+*** Released e-mail corpuses
+**** FOIA request by Judicial Watch
+**** Dept. of State
+** Hackers and leakers
+*** Guccifer 2.0
+**** Democratic National Committee (DNC)
+**** Clinton's private e-mail server (claimed)
+*** Wikileaks
+**** Clinton's e-mails
+**** Claism of future releases
+*** State actors
+**** Russia
+**** China
+**** The Middle East (incl. Egypt)
+**** Elsewhere in the world
+*** State Dept. hacks during Clinton's term
+** Benghazi attacks on Sept. 11, 2012
+*** Timeline
+*** Congressional Investigations
+*** Current status
+** Contributing to this document
+*** How to contribute
+*** Sourcing
+*** Bias
+*** License
