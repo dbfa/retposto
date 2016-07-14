@@ -24,8 +24,8 @@ IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
 OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE DOCUMENT(S) OR THEIR USE.
 * What are the accusations?
-** Clinton had a private e-mail server during 2009-2013
-*** Physically located in the basement of the Clinton's residence in Washington D.C.
+** Ms. Clinton had a private e-mail server during 2009-2013
+*** Physically located in the basement of the Clintons' residence in Washington D.C.
 *** Administered by contracted third parties
 *** Known hosted e-mail addresses
 ** The server was partly intended to circumvent FOIA requests
@@ -40,18 +40,18 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE DOCUMENT(S) OR THEIR USE.
 *** E-mail chains
 *** Retroactive classification
 *** Classification markings
-** Clinton used the server to send e-mails with classified contents or portions
+** Ms. Clinton used the server to send e-mails with classified contents or portions
 *** Recipients
 *** What the public has been told about the contents of these messages
-** Clinton sent (or gave access to a record of) such e-mails to people without clearance
-*** Clinton's e-mail server administrators
-*** Clinton's lawyers
+** Ms. Clinton sent (or gave access to a record of) such e-mails to people without clearance
+*** Ms. Clinton's e-mail server administrators
+*** Ms. Clinton's lawyers
 *** Others
-** Clinton lied about the e-mails and the server to the media
+** Ms. Clinton lied about the e-mails and the server to the media
 *** Timeline
-** Clinton lied under oath about the e-mails and the server to the US Congress
+** Ms. Clinton lied under oath about the e-mails and the server to the US Congress
 *** Timeline
-** Clinton or her close allies compelled the DoS/FBI/DOJ to avoid prosecution
+** Ms. Clinton or her close allies compelled the DoS/FBI/DOJ to avoid prosecution
 *** Timeline
 * Who commissioned/ran the investigations?
 ** The Dept. of State
@@ -61,28 +61,28 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE DOCUMENT(S) OR THEIR USE.
 * What were the findings
 ** Regarding the server
 *** Server administration
-*** Clinton accessed this server with multiple devices
-*** Clinton accessed this server from unfriendly territory
-*** The server had about 60,000 e-mails during Clinton's tenure
+*** Ms. Clinton accessed this server with multiple devices
+*** Ms. Clinton accessed this server from unfriendly territory
+*** The server had about 60,000 e-mails during Ms. Clinton's tenure
 *** Several e-mails were deleted from the server
-*** Clinton hired lawyers to sift through the non-deleted e-mails
+*** Ms. Clinton hired lawyers to sift through the non-deleted e-mails
 *** A subset of the non-deleted e-mails were handed to DoS/FBI
 *** Some deleted e-mails were recovered from other sources (senders, CCs, etc.)
 *** About half the emails that passed through this server are irretrievably lost
-** Regarding Sec. Clinton's conduct
+** Regarding Ms. Clinton's conduct
 *** Any SoC is expected to know about detecting classified markings
 *** "Knowingly and wilfully"
 *** "Convenience"
 *** Relevant Dept. of State rules and regulations during 2009-2013
-** Security clearance of people who have had access to Clinton's e-mail
+** Security clearance of people who have had access to Ms. Clinton's e-mail
 *** Server administrators
-*** Clinton's lawyers
+*** Ms. Clinton's lawyers
 *** Participants in the e-mail correspondence containing classified content
 ** How classified e-mails ended up in a nonsecure channel
 *** The "air gap" between secure and nonsecure channels
 *** Cuplability of Dept. of State
-*** Culpability of Sec. Clinton's staffers
-** Expected fallout of the leak of classified information in Clinton's e-mails
+*** Culpability of Ms. Clinton's staffers
+** Expected fallout of the leak of classified information in Ms. Clinton's e-mails
 *** Drone strikes in Pakistan and Yemen
 *** European politics
 *** The Russia/Ukraine conflict
@@ -151,16 +151,16 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE DOCUMENT(S) OR THEIR USE.
 ** Hackers and leakers
 *** Guccifer 2.0
 **** Democratic National Committee (DNC)
-**** Clinton's private e-mail server (claimed)
+**** Ms. Clinton's private e-mail server (claimed)
 *** Wikileaks
-**** Clinton's e-mails
-**** Claism of future releases
+**** Ms. Clinton's e-mails
+**** Claims of future releases
 *** State actors
 **** Russia
 **** China
-**** The Middle East (incl. Egypt)
+**** The "Middle East" (incl. Egypt and Libya)
 **** Elsewhere in the world
-*** State Dept. hacks during Clinton's term
+*** State Dept. hacks during Ms. Clinton's tenure
 ** Benghazi attacks on Sept. 11, 2012
 *** Timeline
 *** Congressional Investigations
